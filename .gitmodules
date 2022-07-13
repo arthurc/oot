@@ -1,0 +1,3 @@
+[submodule "oot"]
+	path = oot-sys/oot
+	url = https://github.com/zeldaret/oot.git
